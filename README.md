@@ -1,0 +1,2 @@
+# Gptlegaltemp
+Global Legal Templates
